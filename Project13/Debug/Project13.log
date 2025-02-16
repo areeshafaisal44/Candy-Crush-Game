@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\hp\source\repos\project13\project13\header.h(226): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hp\source\repos\project13\project13\header.h(234): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hp\source\repos\project13\project13\header.h(355): warning C4101: 'Matches': unreferenced local variable
+c:\users\hp\source\repos\project13\project13\header.h(634): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hp\source\repos\project13\project13\source.cpp(40): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hp\source\repos\project13\project13\source.cpp(51): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hp\source\repos\project13\project13\source.cpp(6): warning C4101: 'Matches': unreferenced local variable
+  Project13.vcxproj -> C:\Users\Hp\source\repos\Project13\Debug\Project13.exe
